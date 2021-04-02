@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap and UI/UX Design.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript and UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Webpack, PhotoShop, Figma, Vercel, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, Webpack, PhotoShop, Figma, Git and GitHub.</strong>
 </p>
 
 <p align="left">
