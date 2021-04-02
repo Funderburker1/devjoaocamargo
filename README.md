@@ -14,7 +14,7 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
 <p align="left">
   Conhecimentos: <strong>HTML, CSS, JavaScript & UI/UX Design.</strong>
 </p>
-</br>
+
 <p align="left">
   Ferramentas: <strong>VSCode, PhotoShop, Figma, Git & GitHub.</strong>
 </p>
