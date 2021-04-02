@@ -3,15 +3,17 @@
 <p align="left"> 
   Olá meu nome é João, sou desenvolvedor de <strong>Front-End</strong> e <strong>UX Designer</strong>. Estou disponível para estagio/freelas, caso tenha interesse, é só entrar em contato.
 </p>
-
+</br>
+</br>
+</br>
 <p align="left">
   Conhecimentos: <strong>HTML, CSS, JavaScript & UI/UX Design.</strong>
 </p>
-
+</br>
 <p align="left">
   Ferramentas: <strong>VSCode, PhotoShop, Figma, Git & GitHub.</strong>
 </p>
-
+</br>
 
 <p align="left">
   
