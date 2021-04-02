@@ -9,7 +9,6 @@ Me interesso principalmente pelas tecnologias <strong>HTML5</strong>,
 <strong>CSS3</strong>, <strong>JS</strong>, <strong>React</strong> e <strong>NodeJs</strong>, mas estou sempre disposto a aprender novas
 tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em contato.
 </p>
-</br>
 
 <p align="left">
   Conhecimentos: <strong>HTML, CSS, JavaScript & UI/UX Design.</strong>
