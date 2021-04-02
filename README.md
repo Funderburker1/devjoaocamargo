@@ -31,9 +31,9 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
 </p>
 <p align="left">
   
-  <a href=""><i class="lab la-facebook-f"></i></a>
-  <a href=""><i class="lab la-github-alt"></i></a>
-  <a href=""><i class="lab la-twitter"></i></a>
+  <a href="">a<i class="lab la-facebook-f"></i></a>
+  <a href="">b<i class="lab la-github-alt"></i></a>
+  <a href="">c<i class="lab la-twitter"></i></a>
   
 
 </p> 
