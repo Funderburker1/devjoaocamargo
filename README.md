@@ -27,5 +27,5 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
 
 </p>
 <p align="left">
-  <a href=""><i>joaovscamargo01@gmail.com</i></a>
+  joaovscamargo01@gmail.com
 </p> 
