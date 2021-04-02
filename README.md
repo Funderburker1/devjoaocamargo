@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Conhecimentos: <strong>HTML, CSS, JavaScript and UI/UX Design.</strong>
+  Conhecimentos: <strong>HTML, CSS, JavaScript & UI/UX Design.</strong>
 </p>
 
 <p align="left">
