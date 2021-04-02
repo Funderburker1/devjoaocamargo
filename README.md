@@ -1,7 +1,7 @@
 <img src="./img/eu-pc.svg" min-width="200px" max-width="200px" width="300px" align="right" alt="">
 
 <p align="left"> 
-  Olá meu nome é João, sou desenvolvedor de <strong>Front-End</strong> e <strong>UX Designer</strong>. Estou disponível para estagio/freelas, caso tenha interesse, é só entrar em contato.
+  Olá meu nome é João, sou desenvolvedor de <strong>Front-End</strong> e <strong>UX Designer</strong>. 5° semestre de ciências da computação. A procura de estagio, quero muito aprender. Estou estudando <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>REACT-JS</strong> and <strong>NODE-JS</strong>. caso tenha interesse, é só entrar em contato.
 </p>
 </br>
 </br>
