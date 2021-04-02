@@ -15,13 +15,11 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
   Conhecimentos: <strong>HTML, CSS, JavaScript & UI/UX Design.</strong>
 </p>
 </br>
-
 <p align="left">
   Ferramentas: <strong>VSCode, PhotoShop, Figma, Git & GitHub.</strong>
 </p>
 
 </br>
-
 <p align="left">
   
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-camargo-49815a1b0/" alt="Linkedin">
