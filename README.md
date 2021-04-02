@@ -1,6 +1,7 @@
 <link rel="stylesheet"
         href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
-
+<link rel="preconnect" href="https://fonts.gstatic.com">
+    <link
 <img src="./img/eu-pc.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 <p align="left"> 
