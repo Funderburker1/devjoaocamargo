@@ -1,4 +1,4 @@
-<img src="./img/eu-pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="./img/eu-pc.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="">
 
 <p align="left"> 
   Olá meu nome é João, sou desenvolvedor de <strong>Front-End</strong> e <strong>UX Designer</strong>. Estou disponível para estagio/freelas, caso tenha interesse, é só entrar em contato.
