@@ -1,18 +1,25 @@
 <img src="./img/eu-pc.svg" min-width="200px" max-width="200px" width="300px" align="right" alt="">
 
 <p align="left"> 
-  Olá meu nome é João, sou desenvolvedor de <strong>Front-End</strong> e <strong>UX Designer</strong>. 5° semestre de ciências da computação. A procura de estagio, quero muito aprender. Estou estudando <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>REACT-JS</strong> and <strong>NODE-JS</strong>. caso tenha interesse, é só entrar em contato.
+  Olá meu nome é João, sou desenvolvedor de <strong>Front-End</strong> e <strong>UX Designer</strong>. Estudante de Ciências da Computação e cursando o 5°semestre. Estou
+procurando um estágio a fim de obter experiência e desenvolver meus
+conhecimentos na área.
+
+Me interesso principalmente pelas tecnologias HTML5,
+CSS3, Javascript, React e NodeJs, mas estou sempre disposto a aprender novas
+tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em contato.
 </p>
 </br>
-</br>
-</br>
+
 <p align="left">
   Conhecimentos: <strong>HTML, CSS, JavaScript & UI/UX Design.</strong>
 </p>
 </br>
+
 <p align="left">
   Ferramentas: <strong>VSCode, PhotoShop, Figma, Git & GitHub.</strong>
 </p>
+
 </br>
 
 <p align="left">
