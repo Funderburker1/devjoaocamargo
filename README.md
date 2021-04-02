@@ -5,7 +5,7 @@
 procurando um estágio a fim de obter experiência e desenvolver meus
 conhecimentos na área.
 
-Me interesso principalmente pelas tecnologias HTML5,
+Me interesso principalmente pelas tecnologias <strong>HTML5</strong>,
 CSS3, JS, React</strong> e NodeJs, mas estou sempre disposto a aprender novas
 tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em contato.
 </p>
