@@ -1,4 +1,4 @@
-<img src="./img/eu-pc.svg" min-width="200px" max-width="200px" width="300px" align="right" alt="">
+<img src="./img/eu-pc.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 <p align="left"> 
   Olá meu nome é João, sou desenvolvedor de <strong>Front-End</strong> e <strong>UX Designer</strong>. Estudante de Ciências da Computação e cursando o 5°semestre. Estou
