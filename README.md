@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  Ferramentas: <strong>VSCode, PhotoShop, Figma, Git and GitHub.</strong>
+  Ferramentas: <strong>VSCode, PhotoShop, Figma, Git & GitHub.</strong>
 </p>
 
 
