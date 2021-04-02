@@ -1,15 +1,15 @@
 <img src="./img/eu-pc.svg" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é João, sou desenvolvedor de <strong>Front-End</strong> e <strong>UX Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Olá meu nome é João, sou desenvolvedor de <strong>Front-End</strong> e <strong>UX Designer</strong>. Estou disponível para estagio/freelas, caso tenha interesse, é só entrar em contato.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript and UI/UX Design.</strong>
+  Conhecimentos: <strong>HTML, CSS, JavaScript and UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Webpack, PhotoShop, Figma, Git and GitHub.</strong>
+  Ferramentas: <strong>VSCode, Webpack, PhotoShop, Figma, Git and GitHub.</strong>
 </p>
 
 <p align="left">
