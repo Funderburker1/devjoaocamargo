@@ -26,9 +26,12 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
 <p align="rigth">
   Cel: (11)94370-9343
 </p> 
-<p align="rigth">
-  Meu Portfolio: https://devjoaocamargo.github.io/
-</p> 
+
+<a href="https://devjoaocamargo.github.io/" target="_blank">
+       <span class="botao-likedin">Link do Portfolio</span>
+</a>
+
+</br>
 
 <p align="left">
   
