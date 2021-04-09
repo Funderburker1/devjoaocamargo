@@ -28,7 +28,7 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
 </p> 
 
 <a href="https://devjoaocamargo.github.io/" target="_blank">
-       <span class="botao-likedin">Link do Portfolio</span>
+       Link do Portfolio
 </a>
 
 </br>
