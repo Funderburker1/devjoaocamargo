@@ -32,6 +32,7 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
 </a>
 
 </br>
+</br>
 
 <p align="left">
   
