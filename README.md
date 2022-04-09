@@ -1,7 +1,7 @@
 <img src="./img/eu-pc.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 <p align="left"> 
-  Olá meu nome é João, sou desenvolvedor <strong>Front-End</strong> e <strong>UX Designer</strong>. Estudante de Ciências da Computação e cursando o 5°semestre. Estou
+  Olá meu nome é João, sou desenvolvedor <strong>Front-End</strong> e <strong>UX Designer</strong>. Estudante de Ciências da Computação e cursando o 7°semestre. Estou
 procurando um estágio a fim de obter experiência e desenvolver meus
 conhecimentos na área.
 
