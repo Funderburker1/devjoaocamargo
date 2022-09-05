@@ -13,10 +13,6 @@ Me interesso principalmente pelas tecnologias <strong>HTML5</strong>,
 tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em contato.
 </p>
 
-<p align="left">
-  Conhecimentos: <strong>HTML, CSS, JavaScript & UI/UX Design.</strong>
-</p>
-
 <!-- <p align="rigth">
   Cel: (11)94370-9343
 </p>  -->
