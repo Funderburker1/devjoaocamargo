@@ -16,12 +16,11 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
 </h3>
 
 <!-- Tecnologis que domino -->
-
-<br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,css,html,tailwind,sass" />
 </a>
 
+<br>
 <br>
 
 <!-- Endereços para contato -->
