@@ -51,7 +51,7 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=calebesg&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+
 
 <!-- Tecnologis que domino -->
 
