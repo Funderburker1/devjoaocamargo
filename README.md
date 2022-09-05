@@ -17,12 +17,6 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
   Conhecimentos: <strong>HTML, CSS, JavaScript & UI/UX Design.</strong>
 </p>
 
-<p align="left">
-  Ferramentas: <strong>VSCode, PhotoShop, Figma, Git & GitHub.</strong>
-</p>
-
-</br>
-
 <!-- <p align="rigth">
   Cel: (11)94370-9343
 </p>  -->
