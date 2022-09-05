@@ -1,5 +1,20 @@
 <img src="./img/eu-pc.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
+
+</br>
+</br>
+
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-camargo-49815a1b0/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+
+</p>
+
+
+### Hello I'm João Vitor Camargo
+<hr>
+
 <p align="left"> 
   Olá meu nome é João, sou desenvolvedor <strong>Front-End</strong> e <strong>UX Designer</strong>. Estudante de Ciências da Computação e cursando o 7°semestre. Estou
 procurando um estágio a fim de obter experiência e desenvolver meus
@@ -27,30 +42,7 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
   Cel: (11)94370-9343
 </p> 
 
-<a  align="left" href="https://devjoaocamargo.github.io/" target="_blank">
-       Link do Portfolio
-</a>
-
-</br>
-</br>
-
-<p align="left">
-  
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-camargo-49815a1b0/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
-
-</p>
-
-
-### Hello I'm Calebe Souza Guimarães
-<hr>
-
-- 🔭 Interested in working as a front-end developer.
-- 🌱 I'm currently learning about (react, next, redux, tailwind, typescript)
-- 😄 Pronouns: he/his
-
 <br>
-
 
 
 <!-- Tecnologis que domino -->
