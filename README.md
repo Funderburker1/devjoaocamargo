@@ -3,7 +3,7 @@
 ### Hello I'm João Vitor Camargo
 <hr>
 <img src="./img/eu-pc.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="">
-<p align="left"> 
+<h3 align="left"> 
   Olá meu nome é João, sou desenvolvedor <strong>Front-End</strong> e <strong>UX Designer</strong>. Estudante de Ciências da Computação e cursando o 7°semestre. Estou
 procurando um estágio a fim de obter experiência e desenvolver meus
 conhecimentos na área.
@@ -11,7 +11,7 @@ conhecimentos na área.
 Me interesso principalmente pelas tecnologias <strong>HTML5</strong>,
 <strong>CSS3</strong>, <strong>JS</strong>, <strong>React</strong> e <strong>NodeJs</strong>, mas estou sempre disposto a aprender novas
 tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em contato.
-</p>
+</h3>
 
 <!-- <p align="rigth">
   Cel: (11)94370-9343
