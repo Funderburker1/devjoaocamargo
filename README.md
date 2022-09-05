@@ -44,7 +44,7 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
 <!-- Endereços para contato -->
 
 <div> 
-<a href="[https://www.linkedin.com/in/calebesg](https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-camargo-8099b824a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-camargo-8099b824a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaovscamargo01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
