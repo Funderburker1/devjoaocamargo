@@ -19,9 +19,6 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
   Cel: (11)94370-9343
 </p>  -->
 
-<br>
-
-
 <!-- Tecnologis que domino -->
 
 <br>
