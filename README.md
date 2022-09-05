@@ -15,10 +15,6 @@ Me interesso principalmente pelas tecnologias <strong>HTML5</strong>,
 tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em contato.
 </h3>
 
-<!-- <p align="rigth">
-  Cel: (11)94370-9343
-</p>  -->
-
 <!-- Tecnologis que domino -->
 
 <br>
@@ -27,8 +23,6 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
 </a>
 
 <br>
-<br>
-
 
 <!-- Endereços para contato -->
 
