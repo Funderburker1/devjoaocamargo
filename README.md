@@ -23,12 +23,9 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
 
 </br>
 
-<p align="rigth">
-  E-mail: joaovscamargo01@gmail.com
-</p> 
-<p align="rigth">
+<!-- <p align="rigth">
   Cel: (11)94370-9343
-</p> 
+</p>  -->
 
 <br>
 
