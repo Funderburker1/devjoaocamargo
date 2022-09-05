@@ -17,7 +17,7 @@ tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em con
 
 <!-- Tecnologis que domino -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,css,html,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,css,html,tailwind,sass,figma" />
 </a>
 
 <br>
