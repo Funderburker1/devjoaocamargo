@@ -1,10 +1,5 @@
 <img src="./img/eu-pc.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
-
-</br>
-</br>
-
-
 ### Hello I'm João Vitor Camargo
 <hr>
 
