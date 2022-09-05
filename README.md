@@ -7,7 +7,7 @@
   Olá meu nome é João, sou desenvolvedor <strong>Front-End</strong> e <strong>UX Designer</strong>. Estudante de Ciências da Computação e cursando o 7°semestre. Estou
 procurando um estágio a fim de obter experiência e desenvolver meus
 conhecimentos na área.
-
+<br>
 Me interesso principalmente pelas tecnologias <strong>HTML5</strong>,
 <strong>CSS3</strong>, <strong>JS</strong>, <strong>React</strong> e <strong>NodeJs</strong>, mas estou sempre disposto a aprender novas
 tecnologias e aberto a oportunidades. Caso tenha interesse, é só entrar em contato.
