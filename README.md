@@ -4,9 +4,7 @@
 <hr>
 <img src="./img/eu-pc.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 <h3 align="left"> 
-  Olá meu nome é João, sou desenvolvedor <strong>Front-End</strong>. Estudante de Ciências da Computação e cursando o 7°semestre. Estou
-procurando um estágio a fim de obter experiência e desenvolver meus
-conhecimentos na área.
+  Olá meu nome é João, sou desenvolvedor <strong>Front-End</strong>. Estudante de Ciências da Computação e cursando o 8°semestre. No momento, estou procurando uma oportunidade de estágio, treinee ou Jr a fim de obter experiência e desenvolver meus conhecimentos na área.
 </h3>
 
 <h3 align="left">
